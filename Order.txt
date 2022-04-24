@@ -1,0 +1,4 @@
+Client name: Stefan
+Product name: Oreo
+Product price: 13
+Quantity: 3

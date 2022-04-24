@@ -1,0 +1,4 @@
+Client name:  Stefan
+Product name: Mere
+Product price: 5
+Quantity: 3

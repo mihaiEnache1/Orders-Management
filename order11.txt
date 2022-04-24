@@ -1,0 +1,4 @@
+Client name: Bianca
+Product name: Kinder
+Product price: 3
+Quantity: 2

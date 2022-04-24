@@ -1,0 +1,4 @@
+Client name: Bianca
+Product name: Portocale
+Product price: 5
+Quantity: 10
